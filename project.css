@@ -1,0 +1,79 @@
+body{
+margin:0px;
+font-family:system-ui;
+
+}
+.p{
+background-image:url('images/123.jpg');
+height:800px;
+background-attachment:fixed;
+background-position:center;
+background-repeat:no-repeat;
+background-size:cover;
+
+}
+.page-title{
+background:rgba(0,0,0,0.1);
+     color:white;
+padding:190px;
+
+font-size:100px;
+font-family:fantasy;
+text-align:center;
+letter-spacing:4px;
+
+}
+.company-name{
+ background:rgba(0,0,0,0.1);
+     color:white;
+font-size:20px;
+font-family:monospace;
+text-align:center;
+letter-spacing:4px;
+margin-bottom: 0px;
+margin-top: 192px;
+
+
+}
+.company-caption{
+ background:rgba(0,0,0,0.9);
+     color:white;
+font-size:20px;
+font-family:cursive;
+text-align:center;
+letter-spacing:2px;
+margin-top: 0%;
+}
+.menu{
+margin:0px;
+position:fixed;
+top:0;
+width:100%;
+height:100px;
+padding:0px;
+background:rgb(0,125,100);
+text-align:center;
+}
+.ul{
+margin:0px;
+padding:0px;
+display:inline;
+}
+.ul li
+{
+font-size:20px;
+list-style:none;
+display:inline-block;
+padding:20px;
+}
+.menu-item{
+color:white;
+}
+.search-box{
+  
+  
+  text-align:center;
+  text-decoration: none;
+  font-size: 17px;}
+
+  
